@@ -34,7 +34,7 @@ Digging into the form items of each request, we find different usernames and pas
 ![image](https://github.com/Mayukh-Ghara/Meerkat-Analysis-Report/assets/59330372/aae2ff5f-1fd8-4713-af89-a909193d3a73)
 
 Based on all the traffic originating from the same IP address and the rate at which they’re being submitted, this is likely a brute force attack. Specifically, based on the usage of sets of credentials as opposed to testing multiple usernames with a single password at a time or vice versa, we can conclude this is a credential stuffing attack.
-### Task 1 ans: Credential Stuffing
+### Task 2 ans: Credential Stuffing
 
 ### Task 3
 Does the vulnerability exploited have a CVE assigned - and if so, which one?
